@@ -1,0 +1,6 @@
+git init
+git remote add origin https://github.com/DionatanLeao/git-commands.git
+git pull origin master
+git add .
+git commit -m "Project created"
+git push -u origin master
